@@ -1,0 +1,572 @@
+[2019-01-02 23:23:06] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-02 23:23:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-02 23:23:44] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-02 23:23:49] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-02 23:23:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-02 23:24:11] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-03 01:01:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-03 01:07:15] Текст ошибки: SQLSTATE[HY000] [1049] Unknown database 'crsud' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 01:23:18] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crud.planets' doesn't exist | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 23
+=================
+[2019-01-03 02:14:45] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 02:17:09] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 02:18:34] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 02:19:38] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 02:22:55] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:18:57] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:22:59] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:25:38] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:26:12] Текст ошибки: Нет соединения с базой данных | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 18
+=================
+[2019-01-03 16:26:41] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:28:00] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:33:54] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 16:34:14] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 17:09:34] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 17:14:12] Текст ошибки: invalid data source name | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 15
+=================
+[2019-01-03 18:09:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crud.newss' doesn't exist | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 18:10:56] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crud.newss' doesn't exist | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 18:11:54] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crud.newss' doesn't exist | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 18:12:04] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crud.newss' doesn't exist | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 18:34:20] Текст ошибки: На найден шаблон скгв | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 45
+=================
+[2019-01-03 18:46:29] Текст ошибки: Контроллер app\controllers\BhjController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-03 20:36:16] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:37:53] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 20:40:07] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:42:49] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '['title'],news['news'])' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:43:35] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:44:05] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:45:27] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:46:10] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 20:47:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 20:48:25] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 20:49:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 21:04:28] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 21:05:14] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id']','news['title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 21:05:27] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id']','news['title']','news['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 21:45:46] Текст ошибки: Поля формы не заполнены | Файл: C:\OSPanel\domains\CRUD\app\controllers\MainController.php | Строка: 29
+=================
+[2019-01-03 21:45:59] Текст ошибки: Поля формы не заполнены | Файл: C:\OSPanel\domains\CRUD\app\controllers\MainController.php | Строка: 29
+=================
+[2019-01-03 21:53:27] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 21:54:31] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 21:57:01] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 22:05:23] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 22:57:14] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 22:57:32] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 22:59:25] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title, news) VALUES (news['title'], news['news'])' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 23:00:16] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '['title'], news['news'])' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 23:00:47] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-03 23:01:45] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 23:11:47] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 23:15:38] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array)' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 23:17:17] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-03 23:25:05] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1109 Unknown table 'id' in MULTI DELETE | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-03 23:25:39] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id) FROM news' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-04 00:07:52] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-04 00:40:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sdsds' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:41:15] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sdsds' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:42:10] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 00:42:12] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 00:45:00] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 00:45:29] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 00:47:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title']', 'Array['news']')' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:47:48] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sadasd' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:48:19] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:49:48] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 00:51:41] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 00:52:18] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 01:59:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= NULL LIMIT 1' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:00:49] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:01:01] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:12:11] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:12:43] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:14:04] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:14:18] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:14:52] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:15:10] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:15:31] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:16:03] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:20:58] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:21:59] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:22:44] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:22:57] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:24:08] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:24:44] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:25:16] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:25:32] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:26:24] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:26:26] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:26:46] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:26:49] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:27:31] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:27:34] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:28:05] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:30:54] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 02:31:40] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 02:32:23] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 03:00:48] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 03:02:07] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 03:02:14] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 03:05:58] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM news WHERE id = n' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 03:06:02] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM news WHERE id = n' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 04:22:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-04 06:33:36] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 06:34:17] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:26:53] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 16:27:31] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 16:36:57] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:41:41] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-04 16:41:45] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-04 16:42:29] Текст ошибки: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-04 16:48:13] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:48:52] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:49:13] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:50:39] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:51:31] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:51:58] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:52:07] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 16:58:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:07:48] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:08:12] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:08:22] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:08:30] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:21:40] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:21:54] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:22:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:23:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:23:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-04 17:29:09] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 43
+=================
+[2019-01-04 17:30:20] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-04 18:22:06] Текст ошибки: Контроллер app\controllers\CreateController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-04 18:22:21] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Create/index.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-04 18:23:14] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Create/index.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-04 18:23:57] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Create/index.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-04 18:24:44] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Create/index.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-04 18:27:09] Текст ошибки: Контроллер app\controllers\CreController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-04 18:31:17] Текст ошибки: Контроллер app\controllers\CrudController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-05 06:04:29] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-05 06:12:51] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 06:12:58] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 06:20:45] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-05 06:21:03] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-05 15:03:23] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:04:12] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=  LIMIT 1' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:04:39] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=  LIMIT 1' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:11:34] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 132 LIMIT 1' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:12:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 132' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:13:01] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:13:34] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:13:38] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:14:04] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:14:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:14:38] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 133 LIMIT 1' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:22:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:22:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:24:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:25:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:25:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:34:17] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:34:34] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:34:46] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:34:54] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 15:41:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:41:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:41:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:41:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:48:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:50:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:50:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 15:59:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 16:00:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 16:01:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 16:20:42] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 147' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 16:40:44] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 157' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 16:41:19] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 157' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 16:41:24] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 157' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:18:43] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(asdasdasd, sdsad) WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:18:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' sdsad WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:19:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:19:46] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'asdasdasd' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:20:45] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'asdasdasd' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:28:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:30:44] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sdsad,  = asdasdasd WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:36:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sdsad,  = asdasdasd WHERE id = 158' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:37:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-05 17:49:55] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd,  = sdfsdf WHERE id = 159' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 17:49:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd,  = sdfsdf WHERE id = 159' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 18:16:04] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd,  = asdad WHERE id = 161' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-05 18:16:24] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd,  = asdad WHERE id = 161' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 18:52:24] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 18:52:53] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 18:53:10] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 18:53:33] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-05 18:53:47] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-06 18:21:40] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-06 18:21:57] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-06 18:24:40] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-06 19:20:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 28
+=================
+[2019-01-06 19:59:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 19:59:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 19:59:48] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 19:59:51] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 19:59:58] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 20:00:09] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= sadasd, news = sadasdas WHERE id = 165' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 21:58:23] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sadasd' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 21:58:44] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ываыва' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 22:02:12] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dsaasd' in 'field list' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-06 23:17:47] Текст ошибки: SQLSTATE[HY000]: General error | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 35
+=================
+[2019-01-07 00:17:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 00:23:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 00:40:38] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 00:41:09] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 00:41:13] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 00:41:44] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 00:56:59] Текст ошибки: Метод app\controllers\MainController::deleteAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 01:31:06] Текст ошибки: Метод app\controllers\MainController::readAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 01:31:19] Текст ошибки: Метод app\controllers\MainController::readAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 01:31:25] Текст ошибки: Метод app\controllers\MainController::readAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 01:33:01] Текст ошибки: Контроллер app\controllers\ReadController не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 36
+=================
+[2019-01-07 01:34:19] Текст ошибки: Метод app\controllers\MainController::readAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 01:35:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:36:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:36:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:36:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:37:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:37:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:39:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:39:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:40:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:40:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:40:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:40:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:41:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-07 01:41:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 40
+=================
+[2019-01-07 01:56:56] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/read.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 02:07:08] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-07 02:13:32] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/update.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-07 02:24:36] Текст ошибки: Метод app\controllers\MainController::postUpdateAction не найден | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 33
+=================
+[2019-01-07 02:33:07] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' news =  WHERE id = 194' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-07 02:36:27] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-07 02:36:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'news, news = cxcx WHERE id = 194' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-07 02:38:03] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined variable: new in <b>C:\OSPanel\domains\CRUD\ap' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-07 02:38:22] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined variable: new in <b>C:\OSPanel\domains\CRUD\ap' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:24:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-08 18:32:10] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:33:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:33:30] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:36:23] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:36:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:37:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:38:10] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 18:38:20] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 42
+=================
+[2019-01-08 19:04:13] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-08 19:04:52] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-08 19:10:46] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '209sd' in 'where clause' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 19:10:58] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 19:11:05] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 19:11:27] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 19:11:41] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-08 23:06:15] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-08 23:07:15] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-08 23:56:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-08 23:56:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-09 00:16:43] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM news' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 00:17:21] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '->table' at line 1 | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 00:58:55] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 01:04:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Router.php | Строка: 39
+=================
+[2019-01-09 01:12:42] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 01:32:16] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '223w' in 'where clause' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 01:40:06] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '223s' in 'where clause' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 01:56:28] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/postUpdate.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 16:42:52] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 17:11:20] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '224s' in 'where clause' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 17:28:27] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 17:30:12] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '236s' in 'where clause' | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\Db.php | Строка: 33
+=================
+[2019-01-09 17:35:19] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-09 17:35:27] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-10 16:26:17] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================
+[2019-01-10 16:26:25] Текст ошибки: На найден вид C:\OSPanel\domains\CRUD/app/views/Main/create.php | Файл: C:\OSPanel\domains\CRUD\vendor\icrud\core\base\View.php | Строка: 38
+=================

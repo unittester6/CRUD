@@ -41,26 +41,7 @@ CREATE TABLE `news` (
 INSERT INTO `news` (`id`, `title`, `news`) VALUES
 (194, 'updated news', 'updated'),
 (213, 'привет НГ', 'НГ отметили хорошо'),
-(215, 'sadasd', 'xczsdf'),
-(216, 'fasdfd', 'sdafasdf'),
-(217, 'asdfsda', 'sdafasdf'),
-(218, 'sdafsda', 'adsfasf'),
-(219, 'asdfasdf', 'asdfdsa'),
-(224, 'sadasd', 'sdad'),
-(230, 'sadasd', 'araf'),
-(231, 'sadasd', 'ad'),
-(232, 'sadasd', 'wqeqwewqe'),
-(233, 'ываыва', 'sadas'),
-(234, 'sadasd', 'sadfaf'),
-(235, 'ываыва', 'sdfas'),
-(236, 'ываыва', 'sdfas'),
-(237, 'sadasd', 'sdasd'),
-(253, '', ''),
-(254, 'sadasd', 'asr'),
-(255, '', ''),
-(256, '', ''),
-(257, '', ''),
-(258, '', '');
+
 
 --
 -- Индексы сохранённых таблиц

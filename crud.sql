@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `news` (
-  `id` int(11) NOT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY,
   `title` varchar(255) NOT NULL,
   `news` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -37,10 +37,6 @@ CREATE TABLE `news` (
 --
 -- Дамп данных таблицы `news`
 --
-
-INSERT INTO `news` (`id`, `title`, `news`) VALUES
-(194, 'updated news', 'updated'),
-(213, 'привет НГ', 'НГ отметили хорошо'),
 
 
 --
@@ -50,19 +46,7 @@ INSERT INTO `news` (`id`, `title`, `news`) VALUES
 --
 -- Индексы таблицы `news`
 --
-ALTER TABLE `news`
-  ADD PRIMARY KEY (`id`);
 
---
--- AUTO_INCREMENT для сохранённых таблиц
---
-
---
--- AUTO_INCREMENT для таблицы `news`
---
-ALTER TABLE `news`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=259;
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
